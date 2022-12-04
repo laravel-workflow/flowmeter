@@ -20,15 +20,15 @@ The benchmarking framework has several tests that can be run using the following
 
 ## Signals
 
-| Signals | Completion Time (Seconds) |
+| Signals per Workflow | Completion Time (Seconds) |
 | ------------- | ------------- |
 | 10 | 3.318205667 |
-| 100 | 4.279449333 |
-| 250 | 20.01228 |
+| 100 | 20.01228 |
+| 250 | 47.265512333 |
 | 500 | 88.73409967 |
 | 1000 | 181.9567747 |
 
-![Signals vs  Completion Time](https://user-images.githubusercontent.com/1130888/205469021-2dc229b9-ba4c-4bde-8ec2-b3ecc8877c36.png)
+![Signals vs  Completion Time](https://user-images.githubusercontent.com/1130888/205472535-c68ff558-f3d2-44e5-906c-f07c135d9fff.png)
 
 ## Raw Data
 
